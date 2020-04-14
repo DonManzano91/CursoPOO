@@ -1,0 +1,3 @@
+function pago(){
+    this.id;
+}
