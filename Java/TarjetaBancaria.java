@@ -13,7 +13,7 @@ public class TarjetaBancaria extends Pago{
         this.tipoTarjeta = tipoTarjeta;
         this.numTarjeta = numTarjeta;
         this.ccv = ccv;
-        this.expiacion = expiacion;s
+        this.expiacion = expiacion;
 
     }
     
